@@ -1,0 +1,10 @@
+---
+slug: :mikutter_steve_jobs
+depends:
+  mikutter: 3.3.0
+  plugin:
+  - settings
+version: '1.0'
+author: ahiru
+name: mikutter_steve_jobs
+description: 'We are Steve Jobs'
